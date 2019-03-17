@@ -18,7 +18,8 @@
         </activity>
         <activity
             android:name=".SegundaActividad"
-            android:label="@string/title_activity_segunda_actividad"></activity>
+            android:label="@string/title_activity_segunda_actividad"
+            ></activity>
     </application>
 
 </manifest>
